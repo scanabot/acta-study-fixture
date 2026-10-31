@@ -1,8 +1,0 @@
-{
-  "name": "order-quote",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "test": "node test/quote.test.js"
-  }
-}
